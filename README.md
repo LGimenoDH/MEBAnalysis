@@ -6,4 +6,4 @@ Our project revolves around (some of) the handcraft pieces being displayed in th
 
 ### More information on the "Documentation" file above.
 
-### Reach us in https://dhprojectupf.wordpress.com.
+### Reach out to us at https://dhprojectupf.wordpress.com.
